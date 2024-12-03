@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85B9F23C-246E-49D6-4C14-6B4FECE5C655}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\counterstrike\\assets\\low poly fps pack - free (sample)\\components\\scripts\\fpscontroller\\fpscontrollerlpfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B9F23C-246E-49D6-4C14-6B4FECE5C655}|Assembly-CSharp.csproj|solutionrelative:assets\\low poly fps pack - free (sample)\\components\\scripts\\fpscontroller\\fpscontrollerlpfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B9F23C-246E-49D6-4C14-6B4FECE5C655}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\counterstrike\\assets\\scripts\\flashgreanade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B9F23C-246E-49D6-4C14-6B4FECE5C655}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashgreanade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF1AA6-A80A-6C74-75A8-7FB43885C1BD}|Assembly-CSharp-firstpass.csproj|c:\\users\\user\\documents\\github\\counterstrike\\assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF1AA6-A80A-6C74-75A8-7FB43885C1BD}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF1AA6-A80A-6C74-75A8-7FB43885C1BD}|Assembly-CSharp-firstpass.csproj|C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\rigidbodyfirstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF1AA6-A80A-6C74-75A8-7FB43885C1BD}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\rigidbodyfirstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FpsControllerLPFP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Low Poly FPS Pack - Free (Sample)\\Components\\Scripts\\FPSController\\FpsControllerLPFP.cs",
+              "RelativeDocumentMoniker": "Assets\\Low Poly FPS Pack - Free (Sample)\\Components\\Scripts\\FPSController\\FpsControllerLPFP.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Low Poly FPS Pack - Free (Sample)\\Components\\Scripts\\FPSController\\FpsControllerLPFP.cs",
+              "RelativeToolTip": "Assets\\Low Poly FPS Pack - Free (Sample)\\Components\\Scripts\\FPSController\\FpsControllerLPFP.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:12:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlashGreanade.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Scripts\\FlashGreanade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlashGreanade.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Scripts\\FlashGreanade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlashGreanade.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:07:10.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:05:49.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RigidbodyFirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CounterStrike\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAADwvxsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:03:50.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
